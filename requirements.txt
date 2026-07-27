@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+pretty_midi
+mido
+scipy
+tensorflow
+keras
+scikit-learn
+jupyter
